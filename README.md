@@ -1,4 +1,4 @@
-# This s simple Phishing Page..
+# This is a Registration-Phishing-Page....
 
 
 # Install
